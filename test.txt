@@ -1,3 +1,6 @@
 Dit is een testfile
 Nu voeg ik een regel toe
+Nog een regel
+nog een keer
+
 
